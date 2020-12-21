@@ -1,4 +1,4 @@
-![screen.png]
+![screenshot](screen.png)
 
 # Shruggie Copypaster (Firefox extension)
 
