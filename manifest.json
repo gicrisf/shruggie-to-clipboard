@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+  "name": "shruggie-copypaster",
+  "description": "Example of WebExtensionAPI for writing shrug to the clipboard",
+  "version": "1.0",
+  "homepage_url": "https://github.com/mr-chrome/shruggie-copypaster",
+
+  "browser_action": {
+    "default_icon": "icons/square-shruggie.svg",
+    "default_popup": "popup.html"
+  },
+
+  "permissions": [
+    "clipboardWrite"
+  ]
+}
