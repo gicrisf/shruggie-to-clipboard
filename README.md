@@ -1,6 +1,6 @@
-# Shruggie Copypaster (Firefox extension)
+![screen.png]
 
-![icons/square-shruggie-128.png]
+# Shruggie Copypaster (Firefox extension)
 
 Firefox extension (addon).
 
