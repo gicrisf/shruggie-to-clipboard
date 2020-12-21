@@ -1,9 +1,23 @@
 {
   "manifest_version": 2,
   "name": "shruggie-copypaster",
-  "description": "Example of WebExtensionAPI for writing shrug to the clipboard",
-  "version": "1.0",
+  "version": "1.1",
   "homepage_url": "https://github.com/mr-chrome/shruggie-copypaster",
+
+  "description": "Copy/paste the shruggie emoticon to the clipboar with just one click.",
+
+  "icons": {
+    "16": "icons/square-shruggie-16.png",
+    "32": "icons/square-shruggie-32.png",
+    "48": "icons/square-shruggie-48.png",
+    "128": "icons/square-shruggie-128.png"
+  },
+
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "zwitterio.cromenale@gmail.com"
+    }
+  },
 
   "browser_action": {
     "default_icon": "icons/square-shruggie.svg",
