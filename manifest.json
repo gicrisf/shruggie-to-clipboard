@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
-  "name": "shruggie-copypaster",
-  "version": "1.1",
-  "homepage_url": "https://github.com/mr-chrome/shruggie-copypaster",
+  "name": "shruggie-to-clipboard",
+  "version": "1.0",
+  "homepage_url": "https://github.com/mr-chrome/shruggie-to-clipboard",
 
   "description": "Copy/paste the shruggie emoticon to the clipboar with just one click.",
 
@@ -15,7 +15,7 @@
 
   "browser_specific_settings": {
     "gecko": {
-      "id": "zwitterio.cromenale@gmail.com"
+      "id": "shruggie-zwitterio.cromenale@gmail.com"
     }
   },
 

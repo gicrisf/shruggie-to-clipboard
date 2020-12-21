@@ -1,8 +1,8 @@
 ![screenshot](screen.png)
 
-# Shruggie Copypaster (Firefox extension)
+# Shruggie to clipboard (Firefox extension)
 
-Firefox extension (addon).
+Firefox extension (add-on).
 
 Copy the historic shruggie emoticon to your clipboard without passing through other web pages. Just one click, no slowdowns `¯\_(ツ)_/¯`. Then paste it where you want.
 
